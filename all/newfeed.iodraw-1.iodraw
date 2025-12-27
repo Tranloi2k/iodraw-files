@@ -184,7 +184,7 @@
           <mxGeometry x="1434" y="480" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-66" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="834" y="372" width="50" height="42" as="geometry" />
+          <mxGeometry x="960" y="596" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
