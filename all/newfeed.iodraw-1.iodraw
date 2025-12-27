@@ -69,9 +69,6 @@
             <mxPoint x="698" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hkl5uSKGrtN9bEycyPjN-15" target="owOTA4H2sPTEtayIaJAp-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-15" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
           <mxGeometry x="1110" y="270" width="50" height="42" as="geometry" />
         </mxCell>
@@ -131,7 +128,7 @@
           <mxGeometry x="760" y="491" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-22" value="create newfeed worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="408" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170" y="408" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.468;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-22" target="Hkl5uSKGrtN9bEycyPjN-15">
           <mxGeometry relative="1" as="geometry" />
