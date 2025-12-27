@@ -133,16 +133,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.677;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Hkl5uSKGrtN9bEycyPjN-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="834" y="300" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="828" y="300" />
-              <mxPoint x="963" y="300" />
-              <mxPoint x="963" y="307" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-29" value="get newfeed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="924" y="305" width="84" height="30" as="geometry" />
         </mxCell>
