@@ -53,7 +53,11 @@
           <mxGeometry x="1128" y="84" width="67" height="81" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hkl5uSKGrtN9bEycyPjN-7" target="owOTA4H2sPTEtayIaJAp-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="757" y="335" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-7" value="Post service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="708" y="275" width="120" height="60" as="geometry" />
