@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-29" value="get newfeed - on read" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="928" y="384" width="84" height="30" as="geometry" />
+          <mxGeometry x="928" y="384" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-36" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1224" y="702" width="50" height="42" as="geometry" />
@@ -141,9 +141,6 @@
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-40" value="CDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="232.89" y="150" width="60" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-42" target="owOTA4H2sPTEtayIaJAp-74">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-42" value="if follower small" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="942" y="312" width="108" height="30" as="geometry" />
