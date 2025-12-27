@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-15" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
-          <mxGeometry x="1008" y="369" width="50" height="42" as="geometry" />
+          <mxGeometry x="1019" y="354" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Hkl5uSKGrtN9bEycyPjN-15" target="Hkl5uSKGrtN9bEycyPjN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,6 +108,9 @@
               <mxPoint x="852" y="432" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="owOTA4H2sPTEtayIaJAp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.607;entryY=0.864;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hkl5uSKGrtN9bEycyPjN-18" target="Hkl5uSKGrtN9bEycyPjN-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
