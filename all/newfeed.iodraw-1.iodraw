@@ -190,9 +190,6 @@
         <mxCell id="owOTA4H2sPTEtayIaJAp-72" value="get post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="786" y="363" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="828" y="378" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-74" value="on&amp;nbsp; write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="941" y="442" width="66" height="30" as="geometry" />
         </mxCell>
