@@ -97,7 +97,7 @@
           <mxGeometry x="1008" y="381" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" parent="1" vertex="1">
-          <mxGeometry x="1224" y="280" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="1221.5" y="275" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-13" target="owOTA4H2sPTEtayIaJAp-8">
           <mxGeometry relative="1" as="geometry" />
