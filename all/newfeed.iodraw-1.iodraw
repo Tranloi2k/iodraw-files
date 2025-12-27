@@ -170,11 +170,19 @@
         <mxCell id="owOTA4H2sPTEtayIaJAp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-22" target="owOTA4H2sPTEtayIaJAp-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="owOTA4H2sPTEtayIaJAp-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-52" target="owOTA4H2sPTEtayIaJAp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-52" value="NewFeed Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="697" y="402" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.547;entryY=0.205;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-52" target="owOTA4H2sPTEtayIaJAp-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="817" y="450" />
+              <mxPoint x="916" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
