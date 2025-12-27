@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-18" value="Post service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1002" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="462" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hkl5uSKGrtN9bEycyPjN-19" target="FzG1Aa-5wCxgB8jpDKvK-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
