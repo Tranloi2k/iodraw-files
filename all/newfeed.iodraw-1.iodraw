@@ -158,6 +158,9 @@
         <mxCell id="owOTA4H2sPTEtayIaJAp-40" value="CDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="232.89" y="150" width="60" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="owOTA4H2sPTEtayIaJAp-42" value="if follower small" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="956" y="478" width="108" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
