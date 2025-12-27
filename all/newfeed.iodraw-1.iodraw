@@ -187,6 +187,9 @@
         <mxCell id="owOTA4H2sPTEtayIaJAp-66" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1284" y="576" width="50" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="owOTA4H2sPTEtayIaJAp-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-52" target="owOTA4H2sPTEtayIaJAp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
