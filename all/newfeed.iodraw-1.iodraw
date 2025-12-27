@@ -138,18 +138,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.677;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Hkl5uSKGrtN9bEycyPjN-15">
+        <mxCell id="owOTA4H2sPTEtayIaJAp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.677;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="834" y="300" as="sourcePoint" />
+            <mxPoint x="836.25" y="301.57" as="sourcePoint" />
+            <mxPoint x="1109.9999999999998" y="300.00399999999996" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="828" y="300" />
-              <mxPoint x="963" y="300" />
-              <mxPoint x="963" y="307" />
+              <mxPoint x="830.25" y="301.57" />
+              <mxPoint x="965.25" y="301.57" />
+              <mxPoint x="965.25" y="308.57" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-29" value="get newfeed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="894" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="896.25" y="301.57" width="84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
