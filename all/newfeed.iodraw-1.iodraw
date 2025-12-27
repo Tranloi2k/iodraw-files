@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-3" value="Media service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="708" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="708" y="12" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1176" y="246" width="67" height="81" as="geometry" />
