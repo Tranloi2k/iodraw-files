@@ -84,17 +84,6 @@
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" parent="1" vertex="1">
           <mxGeometry x="212.45" y="190.59" width="84" height="49.41" as="geometry" />
         </mxCell>
-        <mxCell id="Hkl5uSKGrtN9bEycyPjN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.949;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Hkl5uSKGrtN9bEycyPjN-5" target="Hkl5uSKGrtN9bEycyPjN-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1041" y="42" />
-              <mxPoint x="1041" y="162" />
-              <mxPoint x="652" y="162" />
-              <mxPoint x="652" y="156" />
-              <mxPoint x="292" y="156" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-27" value="create post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="864" y="270" width="84" height="30" as="geometry" />
         </mxCell>
