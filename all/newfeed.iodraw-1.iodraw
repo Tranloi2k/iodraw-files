@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-15" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="246" width="50" height="42" as="geometry" />
+          <mxGeometry x="1260" y="246" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hkl5uSKGrtN9bEycyPjN-19" target="FzG1Aa-5wCxgB8jpDKvK-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-39" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="549" width="60" height="30" as="geometry" />
+          <mxGeometry x="1092" y="546" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-40" value="CDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="232.89" y="150" width="60" height="48" as="geometry" />
