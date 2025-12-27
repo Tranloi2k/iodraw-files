@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FzG1Aa-5wCxgB8jpDKvK-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Auth service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="714" y="552" width="120" height="60" as="geometry" />
+          <mxGeometry x="708" y="594" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" parent="1" vertex="1">
           <mxGeometry x="1176" y="557" width="37.5" height="50" as="geometry" />
@@ -98,6 +98,9 @@
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" parent="1" vertex="1">
           <mxGeometry x="1224" y="280" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="owOTA4H2sPTEtayIaJAp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-13" target="owOTA4H2sPTEtayIaJAp-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-13" value="newfeed generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="840" y="384" width="120" height="48" as="geometry" />
