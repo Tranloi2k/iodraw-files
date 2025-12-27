@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-39" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="1092" y="643" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-40" value="CDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="232.89" y="150" width="60" height="48" as="geometry" />
@@ -169,11 +169,13 @@
         <mxCell id="owOTA4H2sPTEtayIaJAp-65" value="Key-Value database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1374" y="474" width="132" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-66" target="owOTA4H2sPTEtayIaJAp-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="owOTA4H2sPTEtayIaJAp-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1416" y="684" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-66" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1284" y="660" width="50" height="42" as="geometry" />
+          <mxGeometry x="1284" y="663" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="owOTA4H2sPTEtayIaJAp-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="owOTA4H2sPTEtayIaJAp-52" target="owOTA4H2sPTEtayIaJAp-13">
           <mxGeometry relative="1" as="geometry" />
