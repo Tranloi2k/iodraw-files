@@ -190,14 +190,6 @@
         <mxCell id="owOTA4H2sPTEtayIaJAp-74" value="on&amp;nbsp; write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="941" y="442" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hkl5uSKGrtN9bEycyPjN-27" target="owOTA4H2sPTEtayIaJAp-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="915" y="336" />
-              <mxPoint x="743" y="336" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
