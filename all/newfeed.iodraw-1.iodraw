@@ -54,8 +54,10 @@
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1128" y="84" width="67" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hkl5uSKGrtN9bEycyPjN-7" target="owOTA4H2sPTEtayIaJAp-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="owOTA4H2sPTEtayIaJAp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="owOTA4H2sPTEtayIaJAp-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="846" y="348" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hkl5uSKGrtN9bEycyPjN-7" value="Post service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="708" y="275" width="120" height="60" as="geometry" />
