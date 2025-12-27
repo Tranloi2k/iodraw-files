@@ -148,8 +148,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="owOTA4H2sPTEtayIaJAp-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="258" width="60" height="30" as="geometry" />
+        <mxCell id="owOTA4H2sPTEtayIaJAp-29" value="get newfeed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="894" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
