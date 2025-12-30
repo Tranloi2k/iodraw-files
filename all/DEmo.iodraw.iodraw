@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-19" value="Payment service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-19" value="Payment, Order service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="694.5" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-20" value="FE(Nextjs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
