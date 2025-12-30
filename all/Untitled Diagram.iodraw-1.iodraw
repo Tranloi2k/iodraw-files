@@ -29,7 +29,7 @@
           <mxGeometry x="1224" y="-450" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="1224" y="-650" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="1224" y="-590" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-18" value="Sharding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1234" y="-320" width="60" height="30" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-35" value="master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1266.5" y="-515" width="60" height="30" as="geometry" />
+          <mxGeometry x="1270" y="-450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y6Mmw1f2o4jTzSNP-Pdt-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,7 +100,7 @@
           <mxGeometry x="120" y="-490" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-42" value="Replica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1276.5" y="-630" width="60" height="30" as="geometry" />
+          <mxGeometry x="1270" y="-580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-32" target="y6Mmw1f2o4jTzSNP-Pdt-17">
           <mxGeometry relative="1" as="geometry" />
