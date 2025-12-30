@@ -26,7 +26,7 @@
           <mxGeometry x="1030" y="-530" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="1041.25" y="-700" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="1030" y="-650" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-18" value="Sharding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-290" width="60" height="30" as="geometry" />
@@ -80,10 +80,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-35" value="master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="-600" width="60" height="30" as="geometry" />
+          <mxGeometry x="1072.5" y="-515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-36" value="Replica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1072.5" y="-680" width="60" height="30" as="geometry" />
+          <mxGeometry x="1072.5" y="-640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y6Mmw1f2o4jTzSNP-Pdt-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
