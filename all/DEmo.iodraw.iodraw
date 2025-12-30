@@ -1,15 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="X4W4dCbTcnhRJC8Lr_aX">
-    <mxGraphModel dx="1938" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-880" width="980" height="840" as="geometry" />
-        </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-4" value="Internal system" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="852.5" y="-870" width="115" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-6" value="Product service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="703.5" y="-840" width="111" height="60" as="geometry" />
         </mxCell>
@@ -30,9 +24,6 @@
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-18" value="Sharding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-371" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-19" target="y6Mmw1f2o4jTzSNP-Pdt-67">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-19" value="Payment, Order service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="694.5" y="-300" width="120" height="60" as="geometry" />
@@ -154,6 +145,9 @@
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-88" value="Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1075" y="-341" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
