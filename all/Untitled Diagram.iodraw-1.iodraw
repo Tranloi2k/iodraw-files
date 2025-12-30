@@ -56,7 +56,10 @@
           <mxGeometry x="462" y="-485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-490" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="1030" y="-425" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
