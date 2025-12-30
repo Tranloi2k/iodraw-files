@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="-1051" width="400" height="470" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-790" width="980" height="610" as="geometry" />
+          <mxGeometry x="420" y="-790" width="980" height="750" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-4" value="Internal system" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="-760" width="115" height="30" as="geometry" />
@@ -140,10 +140,12 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GET&lt;/span&gt;&lt;/div&gt;numberOfProduct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="794" y="-558" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-63" target="y6Mmw1f2o4jTzSNP-Pdt-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1014.5" y="-420" as="sourcePoint" />
-            <mxPoint x="840" y="-675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="-400" />
+              <mxPoint x="1020" y="-655" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-63" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
