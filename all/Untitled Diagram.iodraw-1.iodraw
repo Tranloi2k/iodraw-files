@@ -38,8 +38,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="840" y="-350" />
-              <mxPoint x="840" y="-480" />
-              <mxPoint x="787" y="-480" />
+              <mxPoint x="840" y="-510" />
+              <mxPoint x="787" y="-510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-56" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="616" y="-481" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
