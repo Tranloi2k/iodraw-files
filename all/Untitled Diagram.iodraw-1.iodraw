@@ -106,8 +106,8 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-52" value="WS&lt;br&gt;realtime feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="-580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-530" width="60" height="30" as="geometry" />
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-53" value="getPosts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
