@@ -34,12 +34,13 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-18" value="Sharding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-371" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-19" target="y6Mmw1f2o4jTzSNP-Pdt-6">
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.461;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-73" target="y6Mmw1f2o4jTzSNP-Pdt-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="802" y="-350" />
               <mxPoint x="840" y="-350" />
               <mxPoint x="840" y="-510" />
-              <mxPoint x="787" y="-510" />
+              <mxPoint x="788" y="-510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -150,8 +151,15 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-71" value="reduce number prod" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="994" y="-330" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-19" target="y6Mmw1f2o4jTzSNP-Pdt-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="-300" as="sourcePoint" />
+            <mxPoint x="787" y="-780" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-73" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="-651" width="50" height="42" as="geometry" />
+          <mxGeometry x="764.5" y="-680" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
