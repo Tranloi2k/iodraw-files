@@ -150,6 +150,9 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-71" value="reduce number prod" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="994" y="-330" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-73" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="-651" width="50" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
