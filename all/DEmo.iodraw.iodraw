@@ -140,15 +140,6 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-63" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
           <mxGeometry x="924" y="-400" width="130" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-19" target="y6Mmw1f2o4jTzSNP-Pdt-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="-480" as="sourcePoint" />
-            <mxPoint x="930" y="-530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
