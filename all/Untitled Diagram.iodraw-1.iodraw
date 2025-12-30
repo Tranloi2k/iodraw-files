@@ -141,8 +141,8 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-56" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="616" y="-481" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-58" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GET&lt;/span&gt;&lt;/div&gt;numberOfProduct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-560" width="100" height="30" as="geometry" />
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-58" value="&lt;div style=&quot;text-align: left;&quot;&gt;POST&lt;/div&gt;numberOfProduct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-550" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GET&lt;/span&gt;&lt;/div&gt;numberOfProduct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="-550" width="100" height="30" as="geometry" />
