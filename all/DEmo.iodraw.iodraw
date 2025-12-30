@@ -146,7 +146,7 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-88" value="Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1075" y="-341" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-90" value="order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="-200" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
