@@ -137,6 +137,9 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GET&lt;/span&gt;&lt;/div&gt;numberOfProduct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="794" y="-558" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-63" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
+          <mxGeometry x="710" y="-510" width="50" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
