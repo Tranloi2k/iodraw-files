@@ -121,8 +121,8 @@
             <mxPoint x="620" y="-540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-530" width="60" height="30" as="geometry" />
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-56" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
