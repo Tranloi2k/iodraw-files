@@ -25,12 +25,6 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
           <mxGeometry x="1041.25" y="-640" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.078;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.101;exitY=0.601;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-13" target="y6Mmw1f2o4jTzSNP-Pdt-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="-510" as="sourcePoint" />
-            <mxPoint x="790" y="-560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
           <mxGeometry x="1041.25" y="-700" width="37.5" height="50" as="geometry" />
         </mxCell>
@@ -71,6 +65,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-24" target="y6Mmw1f2o4jTzSNP-Pdt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.04;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-6" target="y6Mmw1f2o4jTzSNP-Pdt-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
