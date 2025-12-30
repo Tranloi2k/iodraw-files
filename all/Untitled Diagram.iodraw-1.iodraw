@@ -19,12 +19,6 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-6" value="Product service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="-430" as="sourcePoint" />
-            <mxPoint x="790" y="-480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
