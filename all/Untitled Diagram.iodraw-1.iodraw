@@ -16,12 +16,6 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-6" value="Product service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="y6Mmw1f2o4jTzSNP-Pdt-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="-485" as="sourcePoint" />
-            <mxPoint x="790" y="-640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.025;exitY=0.385;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.051;entryY=0.254;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-6" target="y6Mmw1f2o4jTzSNP-Pdt-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="-510" as="sourcePoint" />
@@ -53,6 +47,9 @@
           <mxGeometry x="640" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-20" target="y6Mmw1f2o4jTzSNP-Pdt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-20" target="y6Mmw1f2o4jTzSNP-Pdt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-20" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
