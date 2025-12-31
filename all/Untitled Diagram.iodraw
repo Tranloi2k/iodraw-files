@@ -25,8 +25,11 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-18" value="Sharding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1240" y="-371" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-19" target="y6Mmw1f2o4jTzSNP-Pdt-90" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="751.5" y="-240" as="sourcePoint" />
+            <mxPoint x="767" y="-180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-19" value="Payment, Order service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="694.5" y="-300" width="120" height="60" as="geometry" />
@@ -37,8 +40,9 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-20" value="FE(Nextjs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="416" y="-487" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-22" target="y6Mmw1f2o4jTzSNP-Pdt-19" edge="1">
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-22" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="-300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="-300" />
             </Array>
