@@ -78,9 +78,6 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-52" value="WebSocket&lt;br&gt;realtime feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="-620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RFiIRLvbL8tSq_33PrR9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-53" target="RFiIRLvbL8tSq_33PrR9-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-53" value="GET&lt;br&gt;post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="-614" width="60" height="30" as="geometry" />
         </mxCell>
@@ -173,7 +170,7 @@
           <mxGeometry x="40" y="-1160" width="490" height="400" as="geometry" />
         </mxCell>
         <mxCell id="RFiIRLvbL8tSq_33PrR9-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-680" width="60" height="30" as="geometry" />
+          <mxGeometry x="1260" y="-1160" width="60" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
