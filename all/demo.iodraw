@@ -57,7 +57,7 @@
           <mxGeometry x="1426" y="-440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-38" value="User" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.user;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-490" width="120" height="70" as="geometry" />
+          <mxGeometry x="430" y="-486" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-42" value="Replica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1426" y="-570" width="60" height="30" as="geometry" />
