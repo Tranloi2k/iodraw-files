@@ -98,8 +98,8 @@
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-67" target="y6Mmw1f2o4jTzSNP-Pdt-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-71" value="reduce number prod&lt;br&gt;event&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="989" y="-546" width="131" height="30" as="geometry" />
+        <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-71" value="reduce number prod&lt;br&gt;event &amp;lt;optimistic locking&amp;gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="989" y="-546" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-73" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
           <mxGeometry x="1080" y="-397" width="50" height="42" as="geometry" />
