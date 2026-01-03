@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="X4W4dCbTcnhRJC8Lr_aX">
-    <mxGraphModel dx="1254" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
         <mxCell id="RFiIRLvbL8tSq_33PrR9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RFiIRLvbL8tSq_33PrR9-2" target="y6Mmw1f2o4jTzSNP-Pdt-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RFiIRLvbL8tSq_33PrR9-2" value="connection pooling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RFiIRLvbL8tSq_33PrR9-2" value="connection pooling&lt;br&gt;(logical)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="-540" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RFiIRLvbL8tSq_33PrR9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.381;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="y6Mmw1f2o4jTzSNP-Pdt-73" target="RFiIRLvbL8tSq_33PrR9-2" edge="1">
