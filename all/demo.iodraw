@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-71" value="reduce number prod&lt;br&gt;event &amp;lt;optimistic locking&amp;gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="996" y="-556" width="151" height="30" as="geometry" />
+          <mxGeometry x="996" y="-560" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6Mmw1f2o4jTzSNP-Pdt-73" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
           <mxGeometry x="1080" y="-397" width="50" height="42" as="geometry" />
