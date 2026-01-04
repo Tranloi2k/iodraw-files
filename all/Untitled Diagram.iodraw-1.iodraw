@@ -22,11 +22,17 @@
         <mxCell id="L3YlKu59HzU1ORrmf3q_-5" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="921" y="624" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3YlKu59HzU1ORrmf3q_-8" target="L3YlKu59HzU1ORrmf3q_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L3YlKu59HzU1ORrmf3q_-8" value="User service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1089" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3YlKu59HzU1ORrmf3q_-11" value="cache&lt;div&gt;&amp;lt;redis&amp;gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1300" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="465" width="37.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
