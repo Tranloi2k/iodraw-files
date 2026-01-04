@@ -141,7 +141,7 @@
         <mxCell id="L3YlKu59HzU1ORrmf3q_-59" value="get followee list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1450" y="898" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L3YlKu59HzU1ORrmf3q_-61" value="cache&lt;div&gt;&amp;lt;redis&amp;gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-61" value="cache&lt;div&gt;(follower list)&lt;br&gt;&lt;div&gt;&amp;lt;redis&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1108" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3YlKu59HzU1ORrmf3q_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="L3YlKu59HzU1ORrmf3q_-61" parent="1">
