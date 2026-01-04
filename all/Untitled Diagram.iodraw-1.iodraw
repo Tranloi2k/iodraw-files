@@ -92,7 +92,7 @@
           <mxGeometry x="1090" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3YlKu59HzU1ORrmf3q_-39" value="get follower list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1156" y="870" width="164" height="30" as="geometry" />
+          <mxGeometry x="1156" y="862" width="164" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
