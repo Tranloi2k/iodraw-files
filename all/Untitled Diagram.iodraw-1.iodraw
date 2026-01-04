@@ -166,8 +166,8 @@
         <mxCell id="L3YlKu59HzU1ORrmf3q_-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L3YlKu59HzU1ORrmf3q_-67" target="L3YlKu59HzU1ORrmf3q_-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L3YlKu59HzU1ORrmf3q_-70" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="660" width="60" height="30" as="geometry" />
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-70" value="CDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
