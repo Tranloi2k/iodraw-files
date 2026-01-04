@@ -106,6 +106,14 @@
         <mxCell id="L3YlKu59HzU1ORrmf3q_-43" value="cache&lt;div&gt;&amp;lt;redis&amp;gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1770" y="770.25" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-46" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="760" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-47" value="Memcache" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.memcache;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="L3YlKu59HzU1ORrmf3q_-46">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
