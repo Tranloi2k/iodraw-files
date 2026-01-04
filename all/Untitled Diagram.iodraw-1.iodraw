@@ -117,7 +117,7 @@
         <mxCell id="L3YlKu59HzU1ORrmf3q_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L3YlKu59HzU1ORrmf3q_-43" target="L3YlKu59HzU1ORrmf3q_-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L3YlKu59HzU1ORrmf3q_-43" value="cache&lt;div&gt;&lt;div&gt;&amp;lt;redis&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-43" value="cache&lt;div&gt;(newfeed timeline)&lt;br&gt;&lt;div&gt;&lt;div&gt;&amp;lt;redis&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2120" y="779.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3YlKu59HzU1ORrmf3q_-48" value="KV Database&lt;div&gt;&amp;lt;post_id, user_id&amp;gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
