@@ -100,6 +100,9 @@
         <mxCell id="L3YlKu59HzU1ORrmf3q_-40" value="Create newfeed worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1590" y="770.25" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L3YlKu59HzU1ORrmf3q_-42" value="Create newfeed worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="780.25" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
