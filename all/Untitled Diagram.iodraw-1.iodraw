@@ -156,11 +156,8 @@
         <mxCell id="L3YlKu59HzU1ORrmf3q_-70" value="CDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L3YlKu59HzU1ORrmf3q_-71" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="780" y="629" width="41" height="78" as="geometry" />
-        </mxCell>
         <mxCell id="L3YlKu59HzU1ORrmf3q_-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="560" width="120" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
