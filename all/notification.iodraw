@@ -109,6 +109,9 @@
         <mxCell id="nxPUYH454r8K2mHt3Jyg-32" value="Analystic service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nxPUYH454r8K2mHt3Jyg-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="750" y="415" width="37.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
