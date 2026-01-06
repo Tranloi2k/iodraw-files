@@ -122,22 +122,23 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-70" value="order service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.894;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-75" target="P0Tmk6__0DqdALg-iifJ-78">
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.894;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-75">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="850" as="sourcePoint" />
+            <mxPoint x="790" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-77" value="if stock&amp;gt;0 then check in DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="820" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-78" value="Products DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-82" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="538.75" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-75" value="check stock in redis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="533.75" y="835" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-83" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="820" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
