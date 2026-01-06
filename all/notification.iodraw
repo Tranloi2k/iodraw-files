@@ -71,6 +71,9 @@
         <mxCell id="nxPUYH454r8K2mHt3Jyg-23" value="APNs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nxPUYH454r8K2mHt3Jyg-26" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_proportional;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="546" width="17" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
