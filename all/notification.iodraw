@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-75" value="check stock in redis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="408.75" y="820" width="130" height="30" as="geometry" />
+          <mxGeometry x="533.75" y="835" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-77" value="if stock&amp;gt;0 then check in DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="820" width="90" height="30" as="geometry" />
