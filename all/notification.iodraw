@@ -61,6 +61,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="340" y="423" width="37.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
