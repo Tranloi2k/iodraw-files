@@ -140,6 +140,11 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-88" target="P0Tmk6__0DqdALg-iifJ-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-88" value="create order&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(idempotent key)&lt;/span&gt;&lt;div&gt;update product (reduce stock)&lt;/div&gt;&lt;div&gt;in redis stock - 1 (TTL = 5m)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="853.75" y="805" width="166.25" height="90" as="geometry" />
         </mxCell>
@@ -159,7 +164,7 @@
           <mxGeometry x="877" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-97" value="if fail return stock in DB, redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="513" y="950" width="187" height="30" as="geometry" />
+          <mxGeometry x="511.5" y="960" width="187" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
