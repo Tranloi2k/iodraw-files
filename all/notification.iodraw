@@ -28,7 +28,7 @@
           <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="540" y="447" width="50" height="42" as="geometry" />
+          <mxGeometry x="540" y="446" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;create reservation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;with TTL&lt;/span&gt;&lt;/div&gt;(stock - 1)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="438" width="120" height="60" as="geometry" />
