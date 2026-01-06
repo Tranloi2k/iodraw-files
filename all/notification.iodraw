@@ -100,8 +100,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-58" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;use automic&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(create oreder&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577" y="500.5" width="60" height="50" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-58" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;use automic&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(create order + decrease&lt;br&gt;product )&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="500.5" width="133" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
