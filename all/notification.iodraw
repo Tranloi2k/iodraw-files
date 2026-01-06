@@ -37,7 +37,7 @@
           <mxGeometry x="415" y="243" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="970" y="290" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="1020" y="305" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-12" value="payment service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="120" height="60" as="geometry" />
