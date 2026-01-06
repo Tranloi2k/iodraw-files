@@ -16,6 +16,9 @@
         <mxCell id="nxPUYH454r8K2mHt3Jyg-4" value="BEGIN TRANSACTION:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;insert notification (status: PENDING)&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;inser notification_outbox (processed: FALSE)&lt;br&gt;&lt;/div&gt;&lt;div&gt;COMMIT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="290" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nxPUYH454r8K2mHt3Jyg-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="750" y="405" width="37.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
