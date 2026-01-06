@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-1" target="P0Tmk6__0DqdALg-iifJ-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="638" y="345" as="sourcePoint" />
+            <mxPoint x="638" y="431" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-1" target="P0Tmk6__0DqdALg-iifJ-2">
           <mxGeometry relative="1" as="geometry">
@@ -112,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-58" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;use automic&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;update&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="499.5" width="60" height="50" as="geometry" />
+          <mxGeometry x="577" y="500.5" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
