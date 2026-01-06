@@ -60,7 +60,7 @@
         <mxCell id="nxPUYH454r8K2mHt3Jyg-22" value="check&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Idempotency key&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="718.13" y="610" width="101.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nxPUYH454r8K2mHt3Jyg-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nxPUYH454r8K2mHt3Jyg-23" value="APNs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
