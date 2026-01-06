@@ -158,8 +158,8 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-94" value="&amp;nbsp;payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="877" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-97" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="513" y="950" width="60" height="30" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-97" value="if fail return stock in DB, redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513" y="950" width="187" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
