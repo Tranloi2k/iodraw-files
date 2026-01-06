@@ -81,10 +81,10 @@
           <mxGeometry x="883.75" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="730" y="435" width="43.75" height="50" as="geometry" />
+          <mxGeometry x="566.25" y="600" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-43" value="order DB&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;status: CREATED,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;RESERVED, PAID,&amp;nbsp;&lt;/div&gt;&lt;div&gt;CANCELLED, EXPIRED&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="490" width="150" height="70" as="geometry" />
+          <mxGeometry x="560" y="655" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-2" target="P0Tmk6__0DqdALg-iifJ-24">
           <mxGeometry relative="1" as="geometry" />
