@@ -166,6 +166,9 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-97" value="if fail return stock in DB, redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="511.5" y="960" width="187" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-99" value="if TTL expire stock + 1 in redis only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="808" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
