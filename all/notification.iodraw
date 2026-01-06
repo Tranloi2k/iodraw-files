@@ -10,8 +10,8 @@
         <mxCell id="nxPUYH454r8K2mHt3Jyg-3" value="Notification service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nxPUYH454r8K2mHt3Jyg-4" value="BEGIN TRANSACTION:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;insert notification&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;inser notification_outbox&lt;br&gt;&lt;/div&gt;&lt;div&gt;COMMIT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="170" height="60" as="geometry" />
+        <mxCell id="nxPUYH454r8K2mHt3Jyg-4" value="BEGIN TRANSACTION:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;insert notification (status: PENDING)&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;inser notification_outbox&lt;br&gt;&lt;/div&gt;&lt;div&gt;COMMIT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
