@@ -111,6 +111,9 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-67" value="if check stock &amp;gt;0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="370" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-69" target="P0Tmk6__0DqdALg-iifJ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-69" value="client create order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -162,9 +165,9 @@
           <mxGeometry x="511.5" y="960" width="187" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-99" value="if TTL expire&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="814" width="90" height="30" as="geometry" />
+          <mxGeometry x="1030" y="819" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-100" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-100" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;stock + 1 in redis only&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="890" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-88" target="P0Tmk6__0DqdALg-iifJ-100">
