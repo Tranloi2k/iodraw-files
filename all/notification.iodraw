@@ -161,11 +161,14 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-97" value="if fail return stock in DB, redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="511.5" y="960" width="187" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-99" value="if TTL expire stock + 1 in redis only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="814" width="210" height="30" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-99" value="if TTL expire&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="814" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-100" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-88" target="P0Tmk6__0DqdALg-iifJ-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
