@@ -94,8 +94,8 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
           <mxGeometry x="846.25" y="490" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-43" value="order DB&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;status: CREATED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;RESERVED, PAID&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;CANCELLED, EXPIRED&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="528" width="160" height="70" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-43" value="order DB&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;status: CREATED,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;RESERVED, PAID,&amp;nbsp;&lt;/div&gt;&lt;div&gt;CANCELLED, EXPIRED&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="550" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
