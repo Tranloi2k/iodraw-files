@@ -122,7 +122,7 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-70" value="order service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-90" target="P0Tmk6__0DqdALg-iifJ-86">
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-82" target="P0Tmk6__0DqdALg-iifJ-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-82" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -143,14 +143,8 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-77" value="if stock&amp;gt;0 then check in DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="835" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-82" target="P0Tmk6__0DqdALg-iifJ-90">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="603" y="850" as="sourcePoint" />
-            <mxPoint x="670" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-90" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="820" width="60" height="30" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-90" value="true" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
