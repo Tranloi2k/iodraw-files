@@ -181,6 +181,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-105" value="if true send notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1038" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
