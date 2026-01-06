@@ -74,7 +74,7 @@
         <mxCell id="nxPUYH454r8K2mHt3Jyg-20" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="685" y="670" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nxPUYH454r8K2mHt3Jyg-22" value="check&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Idempotency key&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nxPUYH454r8K2mHt3Jyg-22" value="check&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Idempotency key (TTL)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="620" width="101.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxPUYH454r8K2mHt3Jyg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nxPUYH454r8K2mHt3Jyg-23">
