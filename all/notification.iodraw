@@ -72,7 +72,10 @@
           <mxGeometry x="840" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nxPUYH454r8K2mHt3Jyg-26" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_proportional;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="546" width="17" height="29" as="geometry" />
+          <mxGeometry x="1040" y="545.5" width="17" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="nxPUYH454r8K2mHt3Jyg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.316;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nxPUYH454r8K2mHt3Jyg-17" target="nxPUYH454r8K2mHt3Jyg-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
