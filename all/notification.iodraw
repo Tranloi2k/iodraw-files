@@ -30,8 +30,8 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="565" y="558" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-7" value="&lt;div&gt;if stock &amp;gt; 0&lt;/div&gt;create reservation with TTL&lt;br&gt;(stock - 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="392" width="170" height="60" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;create reservation with TTL&lt;/span&gt;&lt;/div&gt;(stock - 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="505" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-9" value="if stock &amp;lt; 0&lt;br&gt;send notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="243" width="110" height="40" as="geometry" />
