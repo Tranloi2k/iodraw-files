@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="638" y="345" as="sourcePoint" />
-            <mxPoint x="638" y="431" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-1" target="P0Tmk6__0DqdALg-iifJ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -23,10 +17,10 @@
           <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="613" y="431" width="50" height="42" as="geometry" />
+          <mxGeometry x="670" y="414" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;create reservation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;with TTL&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="677" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="730" y="414" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-12" target="P0Tmk6__0DqdALg-iifJ-2">
           <mxGeometry relative="1" as="geometry">
@@ -86,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-58" target="P0Tmk6__0DqdALg-iifJ-42">
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-1" target="P0Tmk6__0DqdALg-iifJ-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-52" value="create order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -100,14 +94,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-1" target="P0Tmk6__0DqdALg-iifJ-58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="565" y="345" as="sourcePoint" />
-            <mxPoint x="565" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-58" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;use automic&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(create order + decrease&lt;br&gt;product )&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
-          <mxGeometry x="507" y="460" width="133" height="50" as="geometry" />
+          <mxGeometry x="577" y="500.5" width="133" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
