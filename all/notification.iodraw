@@ -121,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-56" value="if true update ordern status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-56" value="if true update order status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546.25" y="140" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
