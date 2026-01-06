@@ -33,6 +33,9 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-9" value="if stock &amp;lt; 0&lt;br&gt;send notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="243" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="37.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
