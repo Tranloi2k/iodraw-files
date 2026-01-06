@@ -37,7 +37,12 @@
           <mxGeometry x="415" y="243" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-12" target="P0Tmk6__0DqdALg-iifJ-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="230" />
+              <mxPoint x="370" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-12" value="payment service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="120" height="60" as="geometry" />
@@ -57,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P0Tmk6__0DqdALg-iifJ-30" value="if fail return stock" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="248" width="100" height="30" as="geometry" />
+          <mxGeometry x="650" y="200" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
