@@ -39,7 +39,7 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-12" value="payment service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-12">
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0Tmk6__0DqdALg-iifJ-12" target="P0Tmk6__0DqdALg-iifJ-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="330" as="targetPoint" />
           </mxGeometry>
@@ -50,8 +50,8 @@
         <mxCell id="P0Tmk6__0DqdALg-iifJ-19" value="if fail&amp;nbsp;&lt;div&gt;stock + 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="685" y="443" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P0Tmk6__0DqdALg-iifJ-22" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="890" y="278" width="40" height="30" as="geometry" />
+        <mxCell id="P0Tmk6__0DqdALg-iifJ-22" value="if true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="915" y="300" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
