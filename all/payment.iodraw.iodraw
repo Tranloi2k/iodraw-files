@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-2" value="order service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="220" y="898" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="898" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;insert order(idempotency_key, create_at)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="670" y="915" width="150" height="30" as="geometry" />
