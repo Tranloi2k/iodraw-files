@@ -53,15 +53,6 @@
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-17" value="payment service&lt;div&gt;publish event update order(idempotency)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="510" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bTLJrlPf9K-0VPhb1Igp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-18" target="bTLJrlPf9K-0VPhb1Igp-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615" y="842" />
-              <mxPoint x="580" y="842" />
-              <mxPoint x="580" y="915" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="590" y="726" width="50" height="42" as="geometry" />
         </mxCell>
@@ -101,8 +92,8 @@
             <Array as="points">
               <mxPoint x="440" y="1240" />
               <mxPoint x="440" y="870" />
-              <mxPoint x="570" y="870" />
-              <mxPoint x="570" y="760" />
+              <mxPoint x="550" y="870" />
+              <mxPoint x="550" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
