@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-52" value="retry on fail&lt;div&gt;retryable error only&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1163" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="1170" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
