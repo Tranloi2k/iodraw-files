@@ -28,7 +28,10 @@
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-11" target="y5Lyuti5-sXJMIkNpJVW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5Lyuti5-sXJMIkNpJVW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-34" target="y5Lyuti5-sXJMIkNpJVW-20">
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-11" target="y5Lyuti5-sXJMIkNpJVW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-11" target="y5Lyuti5-sXJMIkNpJVW-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-11" value="API Gateway&lt;br&gt;rate limiter&lt;div&gt;authen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
