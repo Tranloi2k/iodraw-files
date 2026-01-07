@@ -10,8 +10,8 @@
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-4" value="API&lt;div&gt;post API:&lt;br&gt;POST /api/v1/post&lt;/div&gt;&lt;div&gt;GET /api/v1/post/{userId}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;newFeed API:&lt;br&gt;GET /api/v1/newfeed/{limit}&amp;amp;{cursor}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;follow API&lt;/div&gt;&lt;div&gt;GET api/v1/followers&lt;/div&gt;&lt;div&gt;POST api/v1/followers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="109" width="240" height="351" as="geometry" />
         </mxCell>
-        <mxCell id="y5Lyuti5-sXJMIkNpJVW-6" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="580" y="90" width="210" height="351" as="geometry" />
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
