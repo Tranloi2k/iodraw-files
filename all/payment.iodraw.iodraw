@@ -100,8 +100,11 @@
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-34" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;if stock &amp;gt; 0 +&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;DECR stock(automic + TTL)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="710" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bTLJrlPf9K-0VPhb1Igp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-43" target="bTLJrlPf9K-0VPhb1Igp-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-43" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
-          <mxGeometry x="515" y="1112" width="109" height="32.7" as="geometry" />
+          <mxGeometry x="515.5" y="1120" width="109" height="32.7" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-17" target="bTLJrlPf9K-0VPhb1Igp-43">
           <mxGeometry relative="1" as="geometry" />
