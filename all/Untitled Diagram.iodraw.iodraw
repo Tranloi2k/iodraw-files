@@ -172,7 +172,10 @@
           <mxGeometry x="885" y="880" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-67" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="970" y="989" width="50" height="42" as="geometry" />
+          <mxGeometry x="795" y="910" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.534;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-34" target="y5Lyuti5-sXJMIkNpJVW-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
