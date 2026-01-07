@@ -90,8 +90,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTLJrlPf9K-0VPhb1Igp-33" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;if payment fail&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;INCR&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;available_stock&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="288" y="1080" width="130" height="40" as="geometry" />
+        <mxCell id="bTLJrlPf9K-0VPhb1Igp-33" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;if order transition != PENDING -&amp;gt; PAID&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;INCR&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;available_stock&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1080" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-34" value="reservation only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="699" width="110" height="30" as="geometry" />
