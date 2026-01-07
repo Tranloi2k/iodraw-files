@@ -69,7 +69,7 @@
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;check stock in redis first&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="726" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTLJrlPf9K-0VPhb1Igp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.052;exitY=0.574;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-18" target="bTLJrlPf9K-0VPhb1Igp-7">
+        <mxCell id="bTLJrlPf9K-0VPhb1Igp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.831;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-2" target="bTLJrlPf9K-0VPhb1Igp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-22" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;check stock in DB&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
