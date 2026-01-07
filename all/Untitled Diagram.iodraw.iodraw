@@ -50,7 +50,7 @@
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-14" value="create order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="915" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTLJrlPf9K-0VPhb1Igp-17" value="payment service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bTLJrlPf9K-0VPhb1Igp-17" value="payment service&lt;div&gt;publish event update order(idempotency)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="510" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-18" target="bTLJrlPf9K-0VPhb1Igp-14">
@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-43" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
-          <mxGeometry x="515" y="1139" width="109" height="32.7" as="geometry" />
+          <mxGeometry x="515" y="1128" width="109" height="32.7" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-17" target="bTLJrlPf9K-0VPhb1Igp-43">
           <mxGeometry relative="1" as="geometry" />
