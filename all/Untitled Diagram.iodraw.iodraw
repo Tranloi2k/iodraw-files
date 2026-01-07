@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-41" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
-          <mxGeometry x="960.0000000000001" y="840" width="133.34" height="40" as="geometry" />
+          <mxGeometry x="1031" y="840" width="133.34" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-34" target="y5Lyuti5-sXJMIkNpJVW-41">
           <mxGeometry relative="1" as="geometry">
@@ -120,16 +120,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-43" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="814" width="60" height="46" as="geometry" />
+          <mxGeometry x="1050" y="810" width="60" height="46" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-44" target="y5Lyuti5-sXJMIkNpJVW-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-44" value="worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="1201" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-47" value="KV DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="810" width="70" height="100" as="geometry" />
+          <mxGeometry x="1451" y="810" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.612;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-11" target="y5Lyuti5-sXJMIkNpJVW-39">
           <mxGeometry relative="1" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-54" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="838" width="50" height="42" as="geometry" />
+          <mxGeometry x="1361" y="838" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-58" value="blob storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1058.75" y="1070" width="80" height="130" as="geometry" />
