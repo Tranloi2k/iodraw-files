@@ -123,6 +123,10 @@
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="759.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1330" />
+              <mxPoint x="420" y="760" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-59" value="worker(cron)&lt;div&gt;check expired order to return stock&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
