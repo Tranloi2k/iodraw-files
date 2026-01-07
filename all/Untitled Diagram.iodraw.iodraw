@@ -23,13 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-8" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Lyuti5-sXJMIkNpJVW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-9" target="y5Lyuti5-sXJMIkNpJVW-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="170" y="640" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-9" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-11" target="y5Lyuti5-sXJMIkNpJVW-13">
           <mxGeometry relative="1" as="geometry" />
@@ -197,9 +194,6 @@
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-76" value="KV DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1480" y="856" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="y5Lyuti5-sXJMIkNpJVW-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-9" target="y5Lyuti5-sXJMIkNpJVW-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
