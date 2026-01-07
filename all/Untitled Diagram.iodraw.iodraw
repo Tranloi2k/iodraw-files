@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-39" value="follow service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-41" target="y5Lyuti5-sXJMIkNpJVW-44">
           <mxGeometry relative="1" as="geometry" />
@@ -171,11 +171,17 @@
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-65" value="fanout on read" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="885" y="880" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-67" target="y5Lyuti5-sXJMIkNpJVW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-67" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="795" y="910" width="47.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.534;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-34" target="y5Lyuti5-sXJMIkNpJVW-67">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-70" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="536" width="37.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
