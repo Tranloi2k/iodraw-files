@@ -152,6 +152,9 @@
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-58" value="blob storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1058.75" y="1090" width="80" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-59" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1100" width="68" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
