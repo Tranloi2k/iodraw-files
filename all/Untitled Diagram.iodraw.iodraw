@@ -149,8 +149,8 @@
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-54" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1290" y="838" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="y5Lyuti5-sXJMIkNpJVW-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1090" width="120" height="130" as="geometry" />
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-58" value="blob storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1090" width="80" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
