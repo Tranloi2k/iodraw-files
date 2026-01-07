@@ -171,6 +171,9 @@
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-65" value="fanout on read" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="885" y="880" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-67" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="970" y="989" width="50" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
