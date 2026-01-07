@@ -69,7 +69,7 @@
           <mxGeometry x="997" y="960" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-29" value="worker&lt;div&gt;update order status(&lt;span style=&quot;background-color: initial;&quot;&gt;idempotency)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;reduce stock if PAID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1210" width="140" height="60" as="geometry" />
+          <mxGeometry x="495" y="1210" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-29" target="bTLJrlPf9K-0VPhb1Igp-6">
           <mxGeometry relative="1" as="geometry">
@@ -99,9 +99,6 @@
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-34" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;if stock &amp;gt; 0 +&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;DECR stock(automic + TTL)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="710" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bTLJrlPf9K-0VPhb1Igp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bTLJrlPf9K-0VPhb1Igp-43" target="bTLJrlPf9K-0VPhb1Igp-29">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-43" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
           <mxGeometry x="515" y="1112" width="109" height="32.7" as="geometry" />
