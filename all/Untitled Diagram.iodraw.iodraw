@@ -37,15 +37,11 @@
         <mxCell id="y5Lyuti5-sXJMIkNpJVW-15" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="970" y="540" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="y5Lyuti5-sXJMIkNpJVW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.037;entryY=0.782;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880.0000000000002" y="569.0000000000001" as="sourcePoint" />
-            <mxPoint x="958.1499999999996" y="571.8440000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="920" y="570" />
-              <mxPoint x="958" y="570" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.031;entryY=0.741;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y5Lyuti5-sXJMIkNpJVW-13" target="y5Lyuti5-sXJMIkNpJVW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Lyuti5-sXJMIkNpJVW-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="545" width="37.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
