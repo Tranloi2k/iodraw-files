@@ -80,7 +80,7 @@
           <mxGeometry x="997" y="960" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-28" value="update order status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1095" width="130" height="30" as="geometry" />
+          <mxGeometry x="260" y="960" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bTLJrlPf9K-0VPhb1Igp-29" value="worker(cron)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;return stock for expire order&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;delete fail order row&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1150" width="120" height="60" as="geometry" />
@@ -100,7 +100,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="1180" />
-              <mxPoint x="450" y="793" />
+              <mxPoint x="450" y="840" />
+              <mxPoint x="570" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
