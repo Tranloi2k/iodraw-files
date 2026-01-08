@@ -89,7 +89,7 @@
           <mxGeometry x="321" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
-          <mxGeometry x="490" y="1090" width="50" height="15" as="geometry" />
+          <mxGeometry x="505" y="1090.5" width="130" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
