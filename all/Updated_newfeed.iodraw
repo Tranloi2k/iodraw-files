@@ -77,22 +77,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-27" value="User A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="118" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0xhSf6j5BLN5gN1hZT_e-28" target="0xhSf6j5BLN5gN1hZT_e-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-28" value="chat server A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-30" value="messageID generator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="1191" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0xhSf6j5BLN5gN1hZT_e-32" target="0xhSf6j5BLN5gN1hZT_e-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
-          <mxGeometry x="504" y="1090.5" width="130" height="39" as="geometry" />
+          <mxGeometry x="466" y="1090.5" width="130" height="39" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0xhSf6j5BLN5gN1hZT_e-28" target="0xhSf6j5BLN5gN1hZT_e-32">
           <mxGeometry relative="1" as="geometry" />
@@ -101,13 +101,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-34" value="chat server B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="899" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="861" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-37" value="online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="819" y="1020" width="60" height="30" as="geometry" />
+          <mxGeometry x="781" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-38" value="User B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1109" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0xhSf6j5BLN5gN1hZT_e-40" target="0xhSf6j5BLN5gN1hZT_e-34">
           <mxGeometry relative="1" as="geometry" />
@@ -119,19 +119,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-40" value="worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="689" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="651" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0xhSf6j5BLN5gN1hZT_e-44" target="0xhSf6j5BLN5gN1hZT_e-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-44" value="PN server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="899" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="861" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-46" value="offline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="829" y="1169" width="60" height="30" as="geometry" />
+          <mxGeometry x="791" y="1169" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-48" value="KV DB&lt;br&gt;(DynamoDB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="689" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="651" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
