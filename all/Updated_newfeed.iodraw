@@ -136,8 +136,8 @@
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-50" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="501" y="1060.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0xhSf6j5BLN5gN1hZT_e-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1040" width="60" height="30" as="geometry" />
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-53" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;1:1 chat&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1010" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
