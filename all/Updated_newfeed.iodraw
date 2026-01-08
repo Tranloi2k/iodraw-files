@@ -55,7 +55,7 @@
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-17" value="NoSQL DB&lt;br&gt;(DynamoDB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="415" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0xhSf6j5BLN5gN1hZT_e-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-20" value="Blob storage&lt;div&gt;(S3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="521" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
