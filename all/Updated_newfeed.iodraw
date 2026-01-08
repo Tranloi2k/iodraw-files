@@ -79,11 +79,17 @@
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-27" value="User A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0xhSf6j5BLN5gN1hZT_e-28" target="0xhSf6j5BLN5gN1hZT_e-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-28" value="chat server A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-30" value="messageID generator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
+          <mxGeometry x="490" y="1090" width="50" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
