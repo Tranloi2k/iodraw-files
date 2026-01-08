@@ -26,7 +26,16 @@
           <mxGeometry x="440" y="521" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-9" value="chat server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-10" value="chat server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-11" value="chat server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-12" value="chat server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
