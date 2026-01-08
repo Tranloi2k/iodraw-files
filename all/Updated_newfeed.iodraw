@@ -28,7 +28,7 @@
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-4" value="web server&lt;div&gt;(login)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0xhSf6j5BLN5gN1hZT_e-6" value="zookeeper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-6" value="consul" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-9" value="chat server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-69" value="update&amp;nbsp; message delivery status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="1090" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-70" value="messageID generator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
