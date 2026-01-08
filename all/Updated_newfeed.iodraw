@@ -74,7 +74,10 @@
           <mxGeometry x="600" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-27" value="User A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="119" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-28" value="chat server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
