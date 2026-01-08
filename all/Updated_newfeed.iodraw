@@ -145,6 +145,9 @@
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-54" value="worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="651" y="1312" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-57" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1080" width="50" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
