@@ -139,6 +139,9 @@
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-68" value="save message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="1070" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-69" value="save message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1080" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
