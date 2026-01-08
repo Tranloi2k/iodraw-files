@@ -145,6 +145,9 @@
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-70" value="messageID generator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0xhSf6j5BLN5gN1hZT_e-71" value="messageID generator&lt;div&gt;UUID + timestamp&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
