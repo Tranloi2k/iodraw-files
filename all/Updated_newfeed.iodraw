@@ -101,10 +101,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-34" value="chat server B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-37" value="online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="823" y="1082" width="60" height="30" as="geometry" />
+          <mxGeometry x="820" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0xhSf6j5BLN5gN1hZT_e-38" value="User B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1070" width="120" height="60" as="geometry" />
