@@ -96,11 +96,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="510" />
-              <mxPoint x="797" y="510" />
-              <mxPoint x="797" y="430" />
-              <mxPoint x="802" y="430" />
+              <mxPoint x="820" y="510" />
+              <mxPoint x="820" y="420" />
+              <mxPoint x="802" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L3itE-WIocQ5MZVzEuj6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nxPUYH454r8K2mHt3Jyg-30" target="nxPUYH454r8K2mHt3Jyg-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nxPUYH454r8K2mHt3Jyg-30" value="update notification&amp;nbsp;&lt;div&gt;(&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Idempotency&amp;nbsp;key)&lt;/span&gt;&amp;nbsp;&lt;div style=&quot;text-align: left;&quot;&gt;status =&amp;gt; SENT&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="821.25" y="390" width="130" height="60" as="geometry" />
