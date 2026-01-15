@@ -88,7 +88,7 @@
           <mxGeometry x="760" y="766" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-25" value="Redis cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="851" width="90" height="30" as="geometry" />
+          <mxGeometry x="1210" y="766" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-28" value="get comments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="361" y="845" width="100" height="30" as="geometry" />
