@@ -37,7 +37,8 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-14" target="NI3u7SLD1WIqlryEu2v3-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1070" y="700" />
+              <mxPoint x="1120" y="830" />
+              <mxPoint x="1120" y="700" />
               <mxPoint x="1200" y="700" />
               <mxPoint x="1200" y="640" />
             </Array>
