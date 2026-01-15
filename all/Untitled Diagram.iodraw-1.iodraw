@@ -11,7 +11,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="655" />
-              <mxPoint x="390" y="920" />
+              <mxPoint x="390" y="870" />
+              <mxPoint x="741" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -56,10 +57,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-46" value="realtime comment service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740.71" y="889" width="120" height="60" as="geometry" />
+          <mxGeometry x="740.71" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-48" value="realtime comment service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="909" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-49" value="web server&lt;div&gt;(idempotency key)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="513" y="661" width="120" height="60" as="geometry" />
