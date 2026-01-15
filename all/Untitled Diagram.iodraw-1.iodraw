@@ -86,7 +86,7 @@
             <mxPoint x="400" y="840" as="sourcePoint" />
             <mxPoint x="450" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="503" y="850" />
+              <mxPoint x="503" y="845" />
             </Array>
           </mxGeometry>
         </mxCell>
