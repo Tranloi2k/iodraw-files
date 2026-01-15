@@ -79,18 +79,8 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-20" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="217" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NI3u7SLD1WIqlryEu2v3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-22" target="NI3u7SLD1WIqlryEu2v3-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="785" />
-              <mxPoint x="510" y="930" />
-              <mxPoint x="1320" y="930" />
-              <mxPoint x="1320" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-22" value="web server&lt;div&gt;(idempotency key)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="766" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-23" value="create comment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="700" width="60" height="30" as="geometry" />
