@@ -79,7 +79,13 @@
           <mxGeometry x="238" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-22" target="NI3u7SLD1WIqlryEu2v3-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="586" y="930" />
+              <mxPoint x="1320" y="930" />
+              <mxPoint x="1320" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-22" value="web server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="526" y="725" width="120" height="60" as="geometry" />
