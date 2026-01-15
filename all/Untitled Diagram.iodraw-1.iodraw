@@ -7,6 +7,9 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-1" target="NI3u7SLD1WIqlryEu2v3-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-1" target="NI3u7SLD1WIqlryEu2v3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-1" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,15 +32,6 @@
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-23" value="create comment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="645" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NI3u7SLD1WIqlryEu2v3-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="840" as="sourcePoint" />
-            <mxPoint x="740" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="500" y="880" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-40" value="WS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="890" width="60" height="30" as="geometry" />
