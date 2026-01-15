@@ -102,10 +102,12 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-28" value="get comments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="361" y="845" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NI3u7SLD1WIqlryEu2v3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.453;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.453;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-22" target="NI3u7SLD1WIqlryEu2v3-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="616" y="786" as="sourcePoint" />
-            <mxPoint x="1247.1799999999998" y="850.644" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="616" y="890" />
+              <mxPoint x="1247" y="890" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
