@@ -73,6 +73,12 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-34" value="publish event&lt;div&gt;(idempotency key)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="695" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-20" target="NI3u7SLD1WIqlryEu2v3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="840" as="sourcePoint" />
+            <mxPoint x="450" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
