@@ -13,6 +13,9 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-2" value="web server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
+          <mxGeometry x="770" y="780" width="50" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
