@@ -16,7 +16,7 @@
           <mxGeometry x="219" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-2" value="web server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519" y="706" width="120" height="60" as="geometry" />
+          <mxGeometry x="473" y="706" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-5" target="NI3u7SLD1WIqlryEu2v3-7">
           <mxGeometry relative="1" as="geometry" />
@@ -66,13 +66,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NI3u7SLD1WIqlryEu2v3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-20" target="NI3u7SLD1WIqlryEu2v3-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="845" />
-              <mxPoint x="480" y="760" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-20" target="NI3u7SLD1WIqlryEu2v3-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-20" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="217" y="800" width="120" height="60" as="geometry" />
@@ -87,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-22" value="web server&lt;div&gt;(idempotency key)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="479" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-23" value="create comment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="700" width="60" height="30" as="geometry" />
