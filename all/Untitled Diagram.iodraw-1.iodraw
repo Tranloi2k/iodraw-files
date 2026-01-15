@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-7" value="worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1190" y="629.6" width="60" height="50.4" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-12" value="Amazon DynamoDB" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="760" width="80" height="110" as="geometry" />
+          <mxGeometry x="1190" y="720" width="80" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
