@@ -75,7 +75,7 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-23" value="create comment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NI3u7SLD1WIqlryEu2v3-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-24" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="755" y="758" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
