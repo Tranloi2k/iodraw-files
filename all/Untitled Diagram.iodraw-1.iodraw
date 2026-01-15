@@ -7,6 +7,9 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-1" target="NI3u7SLD1WIqlryEu2v3-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-1" target="NI3u7SLD1WIqlryEu2v3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-1" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -20,6 +23,9 @@
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-2" value="web server&lt;div&gt;(idempotency key)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="651" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-20" target="NI3u7SLD1WIqlryEu2v3-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-20" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="217" y="800" width="120" height="60" as="geometry" />
