@@ -78,8 +78,8 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-24" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="766" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NI3u7SLD1WIqlryEu2v3-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="878" width="50" height="30" as="geometry" />
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-25" value="Redis cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="860" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
