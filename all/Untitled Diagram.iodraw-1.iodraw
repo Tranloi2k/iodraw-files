@@ -75,8 +75,8 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-51" value="Amazon DynamoDB" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
           <mxGeometry x="493" y="525" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NI3u7SLD1WIqlryEu2v3-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-53" value="comment meat data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
