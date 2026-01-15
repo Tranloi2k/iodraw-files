@@ -13,6 +13,9 @@
         <mxCell id="NI3u7SLD1WIqlryEu2v3-2" value="web server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NI3u7SLD1WIqlryEu2v3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NI3u7SLD1WIqlryEu2v3-5" target="NI3u7SLD1WIqlryEu2v3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NI3u7SLD1WIqlryEu2v3-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
           <mxGeometry x="730" y="687.5" width="150" height="45" as="geometry" />
         </mxCell>
