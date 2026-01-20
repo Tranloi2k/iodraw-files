@@ -8,7 +8,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-1" target="xbydlTqX-IXsq04hqihq-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="630" width="140" height="60" as="geometry" />
@@ -39,6 +43,9 @@
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-11" value="Video metadata&lt;br&gt;&amp;nbsp;&lt;br&gt;video_id,&lt;div&gt;name,&lt;/div&gt;&lt;div&gt;description,&lt;br&gt;s3_url,&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="760" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xbydlTqX-IXsq04hqihq-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
