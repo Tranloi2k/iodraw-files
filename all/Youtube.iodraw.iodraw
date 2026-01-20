@@ -7,7 +7,7 @@
         <mxCell id="xbydlTqX-IXsq04hqihq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-1" target="xbydlTqX-IXsq04hqihq-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xbydlTqX-IXsq04hqihq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="xbydlTqX-IXsq04hqihq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="xbydlTqX-IXsq04hqihq-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="358" y="630" as="sourcePoint" />
             <mxPoint x="826" y="470" as="targetPoint" />
@@ -53,7 +53,7 @@
           <mxGeometry x="818" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-14" value="upload video chunks with presigned url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="399" y="438" width="230" height="30" as="geometry" />
+          <mxGeometry x="454" y="438" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-15" value="video processing service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="450" width="120" height="60" as="geometry" />
