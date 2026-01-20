@@ -90,7 +90,10 @@
           <mxGeometry x="818" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/CDN_Profiles.svg;" vertex="1" parent="1">
-          <mxGeometry x="485" y="330" width="68" height="40" as="geometry" />
+          <mxGeometry x="485" y="290" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xbydlTqX-IXsq04hqihq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.956;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-23" target="xbydlTqX-IXsq04hqihq-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
