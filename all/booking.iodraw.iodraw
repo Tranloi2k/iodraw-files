@@ -40,8 +40,8 @@
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-16" value="replicas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="818" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="695" y="608" width="50" height="30" as="geometry" />
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-19" value="getProduct" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="608" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
