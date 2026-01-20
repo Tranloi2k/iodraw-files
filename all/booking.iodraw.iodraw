@@ -34,6 +34,12 @@
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
           <mxGeometry x="960" y="800" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9g9Kr4wBeXr-eA1JhgKN-9" target="9g9Kr4wBeXr-eA1JhgKN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="818" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
