@@ -63,7 +63,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-19" value="publish event with&amp;nbsp;&lt;div&gt;idempotency key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="433" width="120" height="40" as="geometry" />
+          <mxGeometry x="1070" y="438" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xbydlTqX-IXsq04hqihq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
