@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xbydlTqX-IXsq04hqihq-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="270" y="630" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xbydlTqX-IXsq04hqihq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xbydlTqX-IXsq04hqihq-2" value="API Gateway&lt;div&gt;+ Load balancer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="580" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
