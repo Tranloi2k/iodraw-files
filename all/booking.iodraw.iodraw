@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-25" value="(reduce remain nums of ticket&lt;div&gt;create order) atomic&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="600" width="220" height="30" as="geometry" />
+          <mxGeometry x="880" y="600" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
