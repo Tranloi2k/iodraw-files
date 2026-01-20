@@ -21,34 +21,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-2" value="API Gateway&lt;div&gt;+ Load balancer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="580" width="120" height="160" as="geometry" />
+          <mxGeometry x="496" y="580" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-4" target="xbydlTqX-IXsq04hqihq-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-4" value="Web server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="620" width="130" height="80" as="geometry" />
+          <mxGeometry x="675" y="620" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-6" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="865" y="430" width="80" height="100" as="geometry" />
+          <mxGeometry x="845" y="430" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="815" y="760" width="50" height="70" as="geometry" />
+          <mxGeometry x="795" y="760" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-4" target="xbydlTqX-IXsq04hqihq-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-10" value="get presigned url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="775" y="540" width="110" height="30" as="geometry" />
+          <mxGeometry x="755" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-11" value="Video metadata&lt;br&gt;&amp;nbsp;&lt;br&gt;video_id,&lt;div&gt;name,&lt;/div&gt;&lt;div&gt;description,&lt;br&gt;s3_url,&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="885" y="760" width="120" height="100" as="geometry" />
+          <mxGeometry x="865" y="760" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-13" value="raw video" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="875" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="855" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-14" value="upload video chunks with presigned url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="438" width="230" height="30" as="geometry" />
+          <mxGeometry x="436" y="438" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
