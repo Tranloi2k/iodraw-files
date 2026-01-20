@@ -16,8 +16,8 @@
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-6" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="590" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-7" value="web server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
