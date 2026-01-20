@@ -52,7 +52,7 @@
         <mxCell id="xbydlTqX-IXsq04hqihq-13" value="raw video" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="818" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xbydlTqX-IXsq04hqihq-14" value="upload video chunks with presigned url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xbydlTqX-IXsq04hqihq-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;upload video chunks with presigned url&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="454" y="438" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-15" value="video processing service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
