@@ -10,6 +10,9 @@
         <mxCell id="xbydlTqX-IXsq04hqihq-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="630" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xbydlTqX-IXsq04hqihq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-2" target="xbydlTqX-IXsq04hqihq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-2" value="API Gateway&lt;div&gt;+ Load balancer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="580" width="120" height="160" as="geometry" />
         </mxCell>
