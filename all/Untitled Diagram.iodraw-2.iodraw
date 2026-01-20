@@ -28,7 +28,7 @@
         <mxCell id="xbydlTqX-IXsq04hqihq-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
           <mxGeometry x="850" y="760" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xbydlTqX-IXsq04hqihq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-4" target="xbydlTqX-IXsq04hqihq-8">
+        <mxCell id="xbydlTqX-IXsq04hqihq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-4" target="xbydlTqX-IXsq04hqihq-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
