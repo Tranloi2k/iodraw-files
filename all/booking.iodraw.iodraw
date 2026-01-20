@@ -13,6 +13,9 @@
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-4" value="API design&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;getProducts api/products?query&amp;amp;page&lt;br&gt;get detail product api/product?id&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;get ticketInfo api/tickets?productId&lt;/div&gt;&lt;div&gt;post api/order?ticketID&lt;/div&gt;&lt;div&gt;put api/order?ticketId&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="200" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9g9Kr4wBeXr-eA1JhgKN-6" target="9g9Kr4wBeXr-eA1JhgKN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-6" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="590" width="100" height="50" as="geometry" />
         </mxCell>
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-16" value="replicas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="818" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="608" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
