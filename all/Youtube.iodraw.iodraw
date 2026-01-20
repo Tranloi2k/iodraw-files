@@ -77,8 +77,8 @@
         <mxCell id="xbydlTqX-IXsq04hqihq-23" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="808" y="260" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xbydlTqX-IXsq04hqihq-24" value="raw video" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="828" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="xbydlTqX-IXsq04hqihq-24" value="processed video" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="818" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
