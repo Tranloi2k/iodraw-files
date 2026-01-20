@@ -62,7 +62,7 @@
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-25" value="(reduce remain nums of ticket&lt;div&gt;create order) atomic&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="600" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-29" value="cron" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
