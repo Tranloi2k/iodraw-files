@@ -62,7 +62,7 @@
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-25" value="(reduce remain nums of ticket&lt;div&gt;create order) atomic&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="600" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-29" value="cron" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9g9Kr4wBeXr-eA1JhgKN-29" value="cron&lt;div&gt;check order TTL =&amp;gt; nums of product ticket&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9g9Kr4wBeXr-eA1JhgKN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9g9Kr4wBeXr-eA1JhgKN-29" target="9g9Kr4wBeXr-eA1JhgKN-9">
