@@ -89,6 +89,9 @@
         <mxCell id="xbydlTqX-IXsq04hqihq-24" value="processed video" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="818" y="220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xbydlTqX-IXsq04hqihq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xbydlTqX-IXsq04hqihq-27" target="xbydlTqX-IXsq04hqihq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xbydlTqX-IXsq04hqihq-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/CDN_Profiles.svg;" vertex="1" parent="1">
           <mxGeometry x="485" y="290" width="68" height="40" as="geometry" />
         </mxCell>
