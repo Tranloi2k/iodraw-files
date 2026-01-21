@@ -119,7 +119,7 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-49" value="lamda&lt;br&gt;check chunks upload status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-49" target="rg-2Ds6Hj-IDyngSeWS0-18">
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.163;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-49" target="rg-2Ds6Hj-IDyngSeWS0-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
