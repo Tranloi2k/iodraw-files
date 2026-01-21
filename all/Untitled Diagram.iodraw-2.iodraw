@@ -7,9 +7,6 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-1" value="the req&lt;br&gt;&lt;br&gt;functional req&lt;div&gt;upload video&lt;br&gt;watch video&lt;br&gt;&lt;br&gt;non-function req&lt;br&gt;HA&lt;br&gt;Scalability&lt;br&gt;low latency&lt;br&gt;durability&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="130" y="80" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="180" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
