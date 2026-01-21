@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="BNlxxiKznOz91pjMbkJV">
-    <mxGraphModel dx="1254" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="609" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,30 +9,6 @@
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-3" value="API design&amp;nbsp;&lt;br&gt;POST /api/video/upload&lt;br&gt;&lt;br&gt;GET /api/video&lt;br&gt;&lt;br&gt;GET /api/video/detail" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="130" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-4" target="rg-2Ds6Hj-IDyngSeWS0-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-4" value="client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-5" value="API gateway&lt;br&gt;rate limiter&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="110" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-6" value="video service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-5" target="rg-2Ds6Hj-IDyngSeWS0-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="670" y="530" width="67.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-6" target="rg-2Ds6Hj-IDyngSeWS0-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-11" value="Video metadata" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="530" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="210" height="150" as="geometry" />
