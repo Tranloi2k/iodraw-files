@@ -51,7 +51,7 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-21" target="rg-2Ds6Hj-IDyngSeWS0-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-21" value="S3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-21" value="S3&lt;br&gt;raw video" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="800" y="740" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-24" value="get presigned URL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -69,11 +69,17 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-30" value="video processing service&lt;br&gt;split" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-32" target="rg-2Ds6Hj-IDyngSeWS0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
           <mxGeometry x="1230" y="782.5" width="250" height="75" as="geometry" />
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-34" value="worker&lt;br&gt;split&lt;br&gt;transcode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-30" target="rg-2Ds6Hj-IDyngSeWS0-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
