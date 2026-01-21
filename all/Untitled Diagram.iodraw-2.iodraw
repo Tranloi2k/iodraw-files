@@ -126,6 +126,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-53" value="satus: Pending, ready" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1328" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
