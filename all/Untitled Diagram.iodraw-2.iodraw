@@ -10,8 +10,8 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-3" value="API design&amp;nbsp;&lt;br&gt;POST /api/video/upload&lt;br&gt;&lt;br&gt;GET /api/video&lt;br&gt;&lt;br&gt;GET /api/video/detail" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="130" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-12" value="Metric&lt;br&gt;&lt;div&gt;user: 5B&amp;nbsp;&lt;/div&gt;&lt;div&gt;DAU: 25%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 user watch 5 videos&lt;br&gt;1 user upload 0.5 videos&lt;/div&gt;&lt;div&gt;1 video 15 minutes = 1GB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;peak 10x&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="210" height="320" as="geometry" />
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-12" value="Metric&lt;br&gt;&lt;div&gt;user: 5B&amp;nbsp;&lt;/div&gt;&lt;div&gt;DAU: 20%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 user watch 5 videos&lt;br&gt;1 user upload 0.5 videos&lt;/div&gt;&lt;div&gt;1 video 15 minutes = 1.5 GB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;peak 10x&lt;br&gt;&lt;br&gt;&amp;nbsp;DAU = 1 B&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;write&amp;nbsp;&lt;/div&gt;&lt;div&gt;1B * 0.5 = 0.5B&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="519" y="80" width="210" height="320" as="geometry" />
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="rg-2Ds6Hj-IDyngSeWS0-14" target="rg-2Ds6Hj-IDyngSeWS0-15" parent="1">
           <mxGeometry relative="1" as="geometry" />
