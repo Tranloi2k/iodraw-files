@@ -60,8 +60,8 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-28" value="videoId&lt;br&gt;name&lt;br&gt;s3_url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="785" y="1075" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="890" width="60" height="30" as="geometry" />
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-29" value="360p&lt;br&gt;720p&#39;&lt;br&gt;1080p" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
