@@ -63,8 +63,8 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-26" value="upload chunks video&amp;nbsp; via presigned URL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="920" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-28" value="videoId&lt;br&gt;name&lt;br&gt;s3_url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="765" y="1295" width="60" height="60" as="geometry" />
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-28" value="videoId&lt;br&gt;name&lt;br&gt;s3_url&lt;br&gt;status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1290" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-29" value="360p&lt;br&gt;720p&#39;&lt;br&gt;1080p" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="915" y="670" width="90" height="130" as="geometry" />
@@ -120,7 +120,11 @@
           <mxGeometry x="940" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.163;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rg-2Ds6Hj-IDyngSeWS0-49" target="rg-2Ds6Hj-IDyngSeWS0-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="661" y="1150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
