@@ -99,8 +99,8 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-43" value="get segments video from s3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565.5" y="830" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="698" width="50" height="30" as="geometry" />
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-45" value="primary file have all available of video format&lt;br&gt;media file has url to video in s3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="693" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
