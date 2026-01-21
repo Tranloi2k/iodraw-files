@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-1" value="the req&lt;br&gt;&lt;br&gt;functional req&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-1" value="the req&lt;br&gt;&lt;br&gt;functional req&lt;div&gt;upload video&lt;br&gt;watch video&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="130" y="80" width="260" height="330" as="geometry" />
         </mxCell>
       </root>
