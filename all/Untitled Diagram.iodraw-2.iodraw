@@ -140,7 +140,7 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-57" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="750" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-58" value="cassandra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1268" width="90" height="150" as="geometry" />
         </mxCell>
       </root>
