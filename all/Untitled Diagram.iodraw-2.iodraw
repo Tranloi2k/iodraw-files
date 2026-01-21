@@ -132,7 +132,7 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-54" value="cache&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-56" value="CDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
