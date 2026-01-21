@@ -57,8 +57,8 @@
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-24" value="get presigned URL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="990" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-26" value="upload via presigned URL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="920" width="160" height="30" as="geometry" />
+        <mxCell id="rg-2Ds6Hj-IDyngSeWS0-26" value="upload chunks video&amp;nbsp; via presigned URL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rg-2Ds6Hj-IDyngSeWS0-28" value="videoId&lt;br&gt;name&lt;br&gt;s3_url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="765" y="1295" width="60" height="60" as="geometry" />
