@@ -117,7 +117,7 @@
           <mxGeometry x="1040" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="153.5" width="56.75" height="81" as="geometry" />
+          <mxGeometry x="1440" y="-9.5" width="56.75" height="81" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-32" value="LedgerDB&lt;br&gt;Append-only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-80" width="90" height="40" as="geometry" />
@@ -168,7 +168,7 @@
           <mxGeometry x="345" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-58" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="-80" width="60" height="80" as="geometry" />
+          <mxGeometry x="1420" y="-130" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-59" value="LedgerOutboxDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1481.75" y="179" width="120" height="30" as="geometry" />
