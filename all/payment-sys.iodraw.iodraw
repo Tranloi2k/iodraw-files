@@ -7,7 +7,7 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-60" width="180" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.996;exitY=0.397;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="136" y="364" as="sourcePoint" />
             <mxPoint x="256" y="364" as="targetPoint" />
@@ -140,7 +140,7 @@
           <mxGeometry x="945" y="428" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-42" value="create payment req" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="131" y="335" width="130" height="30" as="geometry" />
+          <mxGeometry x="111" y="310" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.024;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-1" target="zvJqCBb7bRX3KRslwtiY-2">
           <mxGeometry relative="1" as="geometry" />
