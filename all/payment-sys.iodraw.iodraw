@@ -120,7 +120,7 @@
           <mxGeometry x="998" y="-73" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="1425" y="153.5" width="56.75" height="81" as="geometry" />
+          <mxGeometry x="1431" y="153.5" width="56.75" height="81" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-32" value="LedgerDB&lt;br&gt;Append-only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1258" y="-153" width="90" height="40" as="geometry" />
