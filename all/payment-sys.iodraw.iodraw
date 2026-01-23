@@ -212,8 +212,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-81" value="call PSP only when state =&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="178" width="170" height="30" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-81" value="call PSP only when state =&amp;nbsp;&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;PROCESSING&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="178" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
