@@ -19,16 +19,14 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="26" y="340" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="381.9310344827586" as="targetPoint" />
-            <mxPoint x="460" y="382" as="sourcePoint" />
+            <mxPoint x="560" y="351.9310344827586" as="targetPoint" />
+            <mxPoint x="376" y="352" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="369.9310344827586" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-2" target="zvJqCBb7bRX3KRslwtiY-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-2" value="API Gateway &amp;amp; Load Balancer&lt;div&gt;Authen&lt;br&gt;Rate limiter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="256" y="290" width="120" height="160" as="geometry" />
