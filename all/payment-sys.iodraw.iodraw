@@ -126,7 +126,7 @@
           <mxGeometry x="1258" y="-153" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-34" value="update state -&amp;gt;&amp;nbsp;SUCCESS / FAILED&lt;br&gt;based on webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="832" y="540" width="220" height="40" as="geometry" />
+          <mxGeometry x="850" y="620" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-35" value="create&lt;br&gt;state =&amp;nbsp;&lt;br&gt;PROCESSING" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="528" y="440" width="100" height="60" as="geometry" />
@@ -179,7 +179,12 @@
           <mxGeometry x="990" y="91" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-64" target="zvJqCBb7bRX3KRslwtiY-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="136" />
+              <mxPoint x="1320" y="536" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-64" target="zvJqCBb7bRX3KRslwtiY-29">
           <mxGeometry relative="1" as="geometry" />
