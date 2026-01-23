@@ -20,7 +20,10 @@
           <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="500" y="440" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="448" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
