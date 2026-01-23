@@ -31,7 +31,7 @@
             <mxPoint x="561" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-2" value="API Gateway &amp;amp; Load Balancer&lt;div&gt;Authen&lt;br&gt;Rate limiter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-2" value="API Gateway &amp;amp; Load Balancer&lt;div&gt;Authen&lt;br&gt;Rate limiter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="256" y="290" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-3" target="zvJqCBb7bRX3KRslwtiY-52">
