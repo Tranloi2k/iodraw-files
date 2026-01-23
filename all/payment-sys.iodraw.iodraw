@@ -140,8 +140,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="995" y="428" width="50" height="30" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-39" value="retry only retriable error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="428" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
