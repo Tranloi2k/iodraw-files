@@ -91,8 +91,8 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-27" value="Receive Webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="158" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-28" value="Ledger service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
