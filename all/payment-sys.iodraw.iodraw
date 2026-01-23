@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-34" value="update state -&amp;gt;&amp;nbsp;SUCCESS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="553" width="170" height="30" as="geometry" />
+          <mxGeometry x="860" y="530" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
