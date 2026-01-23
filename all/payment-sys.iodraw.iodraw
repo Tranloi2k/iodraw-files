@@ -63,8 +63,8 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-11" value="submit card info to get token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="170" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-12" value="request payment&lt;div&gt;(idempotency)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="382" y="310" width="110" height="40" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-12" value="request payment&lt;div&gt;(idempotency =&lt;br&gt;payment_intent_id)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="372" y="300" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-14" value="Validate token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="280" width="100" height="30" as="geometry" />
