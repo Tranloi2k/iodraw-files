@@ -185,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-64" value="&lt;div&gt;Update payments.state = SUCCESS&lt;/div&gt;&lt;div&gt;Insert ledger_outbox(event_type=PAYMENT_SUCCESS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="945" y="91" width="310" height="60" as="geometry" />
+          <mxGeometry x="990" y="91" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
