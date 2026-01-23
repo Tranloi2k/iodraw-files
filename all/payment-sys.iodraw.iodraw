@@ -115,17 +115,17 @@
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1208" y="89.11764705882354" as="targetPoint" />
+            <mxPoint x="1208" y="0.1176470588235361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-28" value="Ledger service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="998" y="59" width="120" height="60" as="geometry" />
+          <mxGeometry x="998" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
-          <mxGeometry x="1209.25" y="59" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="1209.25" y="-30" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-32" value="LedgerDB&lt;br&gt;Append-only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1241.75" y="64" width="90" height="40" as="geometry" />
+          <mxGeometry x="1241.75" y="-25" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-34" value="update state -&amp;gt;&amp;nbsp;SUCCESS / FAILED&lt;br&gt;based on webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="832" y="540" width="220" height="40" as="geometry" />
