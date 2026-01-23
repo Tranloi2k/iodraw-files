@@ -184,8 +184,8 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-28" target="zvJqCBb7bRX3KRslwtiY-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-64" value="&lt;div&gt;Update payments.state = SUCCESS&lt;/div&gt;&lt;div&gt;Insert ledger_outbox(event_type=PAYMENT_SUCCESS, payload)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="975" y="71" width="285" height="60" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-64" value="&lt;div&gt;Update payments.state = SUCCESS&lt;/div&gt;&lt;div&gt;Insert ledger_outbox(event_type=PAYMENT_SUCCESS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="71" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
