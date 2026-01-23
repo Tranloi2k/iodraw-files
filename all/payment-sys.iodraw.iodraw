@@ -83,7 +83,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1160" y="190" />
-              <mxPoint x="627" y="190" />
+              <mxPoint x="640" y="190" />
+              <mxPoint x="640" y="161" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,7 +101,7 @@
           <mxGeometry x="740" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-27" value="Receive Webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="158" width="120" height="30" as="geometry" />
+          <mxGeometry x="600" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-28">
           <mxGeometry relative="1" as="geometry">
