@@ -64,7 +64,7 @@
           <mxGeometry x="235" y="170" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-12" value="request payment&lt;div&gt;(idempotency =&lt;br&gt;payment_intent_id)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="372" y="300" width="130" height="60" as="geometry" />
+          <mxGeometry x="398" y="290" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-14" value="Validate token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="280" width="100" height="30" as="geometry" />
@@ -84,8 +84,8 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-3" target="zvJqCBb7bRX3KRslwtiY-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-19" value="publish event with&lt;br&gt;idempotency key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="323" width="120" height="40" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-19" value="publish event with&lt;br&gt;idempotency key =&amp;nbsp;&lt;br&gt;&lt;div&gt;execution_key = hash(&lt;/div&gt;&lt;div&gt;&amp;nbsp; payment_intent_id +&lt;/div&gt;&lt;div&gt;&amp;nbsp; payment_attempt_id +&lt;/div&gt;&lt;div&gt;&amp;nbsp; operation_type&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="288" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-20" target="zvJqCBb7bRX3KRslwtiY-9">
           <mxGeometry relative="1" as="geometry" />
