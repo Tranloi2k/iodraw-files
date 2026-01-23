@@ -158,7 +158,11 @@
           <mxGeometry x="510" y="-40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.792;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-3" target="zvJqCBb7bRX3KRslwtiY-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="651" y="566" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-52" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="380" y="537" width="50" height="42" as="geometry" />
