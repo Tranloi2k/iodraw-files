@@ -35,7 +35,12 @@
           <mxGeometry x="256" y="290" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-3" target="zvJqCBb7bRX3KRslwtiY-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="591" y="420" />
+              <mxPoint x="405" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-3" value="Payment service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="561" y="340" width="120" height="60" as="geometry" />
@@ -171,6 +176,9 @@
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-55" value="payment_intent_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=-0.076;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-20" target="zvJqCBb7bRX3KRslwtiY-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
