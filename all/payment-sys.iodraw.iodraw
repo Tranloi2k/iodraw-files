@@ -58,6 +58,9 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-16" value="send token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="466" y="383" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-17" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="50" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
