@@ -19,6 +19,12 @@
             <mxPoint x="503" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="381.9310344827586" as="targetPoint" />
+            <mxPoint x="460" y="382" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-2" value="API Gateway &amp;amp; Load Balancer&lt;div&gt;Authen&lt;br&gt;Rate limiter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="120" height="160" as="geometry" />
         </mxCell>
@@ -41,7 +47,7 @@
           <mxGeometry x="270" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-12" value="request payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="328" width="110" height="30" as="geometry" />
+          <mxGeometry x="455" y="328" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
