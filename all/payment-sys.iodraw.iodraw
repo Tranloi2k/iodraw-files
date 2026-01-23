@@ -120,8 +120,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-34" value="update state -&amp;gt;&amp;nbsp;SUCCESS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="530" width="170" height="30" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-34" value="update state -&amp;gt;&amp;nbsp;SUCCESS / FAILED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="835" y="530" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-35" value="create&lt;br&gt;state =&amp;nbsp;&lt;br&gt;PROCESSING" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="100" height="60" as="geometry" />
