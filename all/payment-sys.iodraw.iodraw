@@ -143,8 +143,8 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-39" value="retry only retriable error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="945" y="428" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="348" width="50" height="30" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-42" value="create payment req" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
