@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-9" value="Payment Service Providers (PSP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="507" y="131" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-11" value="submit card info to get token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="170" height="30" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="1100" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-23" value="Card Scheme / Bank&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="508" y="1" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-25" target="zvJqCBb7bRX3KRslwtiY-28">
           <mxGeometry relative="1" as="geometry" />
