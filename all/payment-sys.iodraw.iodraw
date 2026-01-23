@@ -15,8 +15,8 @@
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="369" as="sourcePoint" />
-            <mxPoint x="503" y="369" as="targetPoint" />
+            <mxPoint x="440" y="359" as="sourcePoint" />
+            <mxPoint x="503" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-2" value="API Gateway &amp;amp; Load Balancer&lt;div&gt;Authen&lt;br&gt;Rate limiter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-11" value="submit card info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="328" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
