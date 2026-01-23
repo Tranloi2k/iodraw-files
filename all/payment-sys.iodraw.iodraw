@@ -122,8 +122,8 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-32" value="LedgerDB&lt;br&gt;Append-only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1510" y="-110" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zvJqCBb7bRX3KRslwtiY-34" value="update state -&amp;gt;&amp;nbsp;SUCCESS / FAILED&lt;br&gt;based on webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="573.5" width="220" height="40" as="geometry" />
+        <mxCell id="zvJqCBb7bRX3KRslwtiY-34" value="update state -&amp;gt;&amp;nbsp;&lt;br&gt;based on webhook result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="573.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-35" value="create&lt;br&gt;state =&amp;nbsp;&lt;br&gt;PROCESSING" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="528" y="460" width="100" height="60" as="geometry" />
@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-81" value="call PSP only when state =&amp;nbsp;&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;PROCESSING&lt;br&gt;idempotency&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="173" width="240" height="40" as="geometry" />
+          <mxGeometry x="760" y="176" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
