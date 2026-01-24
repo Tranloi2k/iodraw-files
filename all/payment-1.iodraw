@@ -66,7 +66,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWvNQ98W_8qFTyPsicxU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zvJqCBb7bRX3KRslwtiY-9" target="ZWvNQ98W_8qFTyPsicxU-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="597" y="80" />
+              <mxPoint x="750" y="80" />
+              <mxPoint x="750" y="-70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-9" value="Payment Service Providers (PSP)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="507" y="131" width="120" height="60" as="geometry" />
@@ -220,6 +226,9 @@
         </mxCell>
         <mxCell id="ZWvNQ98W_8qFTyPsicxU-3" value="Reconciliation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="809" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWvNQ98W_8qFTyPsicxU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZWvNQ98W_8qFTyPsicxU-3" target="zvJqCBb7bRX3KRslwtiY-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
