@@ -215,6 +215,9 @@
         <mxCell id="zvJqCBb7bRX3KRslwtiY-81" value="call PSP only when state =&amp;nbsp;&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;PROCESSING&lt;br&gt;idempotency&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="176" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZWvNQ98W_8qFTyPsicxU-3" value="Reconciliation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
