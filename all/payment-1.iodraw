@@ -202,7 +202,12 @@
           <mxGeometry x="1180" y="460" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zvJqCBb7bRX3KRslwtiY-64" target="zvJqCBb7bRX3KRslwtiY-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="124" />
+              <mxPoint x="1520" y="618" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zvJqCBb7bRX3KRslwtiY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.613;entryY=-0.092;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zvJqCBb7bRX3KRslwtiY-20" target="zvJqCBb7bRX3KRslwtiY-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -232,7 +237,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWvNQ98W_8qFTyPsicxU-8" value="Dead Letter Queue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1119" y="200" width="220" height="79" as="geometry" />
+          <mxGeometry x="1210" y="230" width="220" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
