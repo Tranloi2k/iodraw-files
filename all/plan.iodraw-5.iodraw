@@ -23,13 +23,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="af5bL_Zi4cHPcJ83HKCr-5" value="CV&lt;br&gt;14/2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="761" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="787" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="af5bL_Zi4cHPcJ83HKCr-6" value="apply&lt;br&gt;21/2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="951" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="977" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4ylqWkN0Q0T_pvIFzWH-1" value="3 weeks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="491" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k4ylqWkN0Q0T_pvIFzWH-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;3 weeks&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
