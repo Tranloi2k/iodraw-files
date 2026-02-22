@@ -30,6 +30,9 @@
         <mxCell id="k4ylqWkN0Q0T_pvIFzWH-5" value="&lt;div&gt;Có khả năng cần extend để học:&lt;/div&gt;OOP&lt;br&gt;SQL&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="897" y="350" width="190" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="LtUW1JWwZRPXlV2jvGxz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
