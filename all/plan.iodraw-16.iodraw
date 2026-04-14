@@ -24,8 +24,8 @@
         <mxCell id="LtUW1JWwZRPXlV2jvGxz-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;CRASH COURSE MIDDLE BE&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;(24/3 - 14/4)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="140" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LtUW1JWwZRPXlV2jvGxz-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;MOCK(20/4)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="LtUW1JWwZRPXlV2jvGxz-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;MOCK(20/4)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="720" y="390" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
